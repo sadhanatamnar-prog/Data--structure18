@@ -38,6 +38,21 @@ Advantages
 2. Organizes product prices systematically.
 3. Helps identify matching product pairs.
 4. Improves understanding of tree traversal and searching.
+   
+Disadvantages
+
+1. Requires extra memory to store BST nodes.
+2. Searching may be slow if the BST is unbalanced.
+3. The program checks multiple pairs, which takes more time for large datasets.
+4. Duplicate prices may create additional nodes.
+
+
+Limitations
+
+1. The program supports only numerical product prices.
+2. It uses a fixed-size array of 100 elements.
+3. It checks only pairs of two different products.
+4. It does not manage actual gift vouchers or process payments.
 
 Conclusion
 
